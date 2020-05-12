@@ -1,24 +1,24 @@
 {
   "basics": {
-    "name": "John Doe",
-    "label": "developer",
-    "image": "https://user-images.githubusercontent.com/10413754/79948155-e5e9da80-84a5-11ea-83eb-34e2f5aa89f6.png",
-    "email": "johndoe@gmail.com",
-    "phone": "(111) 333-4567",
-    "website": "http://johndoe.com",
+    "name": "Parag Patil",
+    "label": "Team Lead",
+    "image": "https://pbs.twimg.com/profile_images/2153295245/tw_14285261_1335016241_400x400.jpg",
+    "email": "parag60288@gmail.com",
+    "phone": "+XX-XXXXXXXXXX",
+    "website": "https://www.example.com",
     "summary": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
     "location": {
-      "address": "22111 Makiling",
-      "postalCode": "4027",
-      "city": "Calamba",
-      "countryCode": "PH",
-      "region": "Philippines"
+      "address": "Some home, some street",
+      "postalCode": "XXXXXX",
+      "city": "Mumbai",
+      "countryCode": "IN",
+      "region": "Maharashtra"
     },
     "profiles": [
       {
         "network": "Twitter",
-        "username": "johndoe",
-        "url": "http://twitter.com/johndoe"
+        "username": "parag60288",
+        "url": "https://twitter.com/parag60288"
       }
     ]
   },
